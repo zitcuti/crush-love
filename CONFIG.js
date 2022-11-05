@@ -1,10 +1,19 @@
-const CONFIGDATA = {
-  titleHeader: "Làm người yêu tớ nhé I Love You",
-  descriptionHeader:
-    "Nếu cậu thoát ra và không trả lời thì có nghĩa là cậu đã ĐỒNG Ý rồi đấy ^^",
-  buttonYes: "Đồng Ý",
-  buttonNo: "Không! Còn lâu nhé.",
-  titleModar: "Cảm ơn em vì đồng ý",
-  descriptionModar:
-    'Tớ biết là cậu sẽ đồng ý làm người yêu tớ mà ^^ </br> Cám ơn cậu đã đồng ý để cho tớ được che chở và bảo vệ cậu.Đối với tớ, cậu mãi là cô bé :)) </br> "Thích cậu nhiều đến mấy, cậu sẽ hiểu thôi. </br>  Tớ thích cậu nhiều đến mấy, cậu sẽ hiểu thôi "',
-};
+const CONFIG = {
+    titleWeb: "Thế giới của tui:3",
+    introTitle: 'Nguyễn An Hòa',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: '^^HiHi^^',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Thích lắm <33',
+    btnNo: 'Không nha :3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    btnReply: 'Gửi cho bạn <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    btnAccept: 'Okiiiii lun <3',
+
